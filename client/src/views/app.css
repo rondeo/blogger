@@ -1,0 +1,19 @@
+.button-div{ 
+    text-align: center;   
+    margin-top: 10px;
+    overflow: hidden;
+    margin-left: 5%;
+ 
+}
+
+.button {
+    text-align: center;
+}
+
+.button-div-1{
+    float: left;
+}
+
+.button-div-2{
+    float: left;
+}
